@@ -13,3 +13,4 @@ Steps Involved:
 5. Link Github with heroku
 6. Deploy the model on heroku
 
+Deployed app website: https://diabetespredict121.herokuapp.com/
