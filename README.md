@@ -6,11 +6,11 @@ Diabetes is one of the deadliest diseases in the world. It is not only a disease
 The dataset used in the model is PIMA Indian Diabetes Dataset and is from the National Institute of Diabetes and Digestive and Kidney Diseases.
 
 Steps Involved: 
-1. Train our Diabetes Predictor ML model
-2. Create Web app using Flask
-3. Commit the code in GitHub
-4. Create an account on Heroku
-5. Link Github with heroku
-6. Deploy the model on heroku
+1. Training the Diabetes Predictor ML model
+2. Creating Web app using Flask
+3. Commiting the code on GitHub
+4. Creating an account on Heroku
+5. Linking the Github repository with Heroku
+6. Deploying the model on Heroku
 
-Deployed app website: https://diabetespredict121.herokuapp.com/
+The deployed app can be found on : https://diabetespredict121.herokuapp.com/
